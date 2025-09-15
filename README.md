@@ -24,4 +24,30 @@ Di dalam proyek ini terdapat beberapa file program dengan alur form â†’ input â†
 
 Berikut ini screenshot hasil tiap program:
 ### 1. Form Ucapan  
-(gambar/form-ucapan.png)
+![Form Ucapan](gambar/form-ucapan.png)
+
+### 2. Kalkulator
+![Kalkulator Bagi](gambar/kalkulator-bagi.png)
+![Kalkulator Kali](gambar/kalkulator-kali.png)
+![Kalkulator Kurang](gambar/kalkulator-kurang.png)
+![Kalkulator Tambah](gambar/kalkulator-tambah.png)
+
+### 3. Bilangan Ganjil / Genap
+![Bilangan Ganjil](gambar/ganjil.png)
+![Bilangan Genap](gambar/genap.png)
+
+### 4. Nilai Huruf
+![Grade A](gambar/gradeA.png)
+![Grade B](gambar/gradeB.png)
+![Grade C](gambar/gradeC.png)
+![Grade D](gambar/gradeD.png)
+![Grade E](gambar/gradeE.png)
+
+### 5. Menu Makanan
+![Menu Makanan](gambar/menu-makanan.png)
+![Mie Ayam](gambar/mie-ayam.png)
+![Nasi Goreng](gambar/nasi-goreng.png)
+![Soto](gambar/soto.png)
+
+### 6. Form Biodata
+![Biodata](gambar/biodata.png)
