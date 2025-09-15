@@ -24,4 +24,4 @@ Di dalam proyek ini terdapat beberapa file program dengan alur form â†’ input â†
 
 Berikut ini screenshot hasil tiap program:
 ### 1. Form Ucapan  
-![Form Ucapan] (gambar/form ucapan.png)
+(gambar/form-ucapan.png)
