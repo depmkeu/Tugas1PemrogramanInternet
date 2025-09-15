@@ -19,3 +19,9 @@ Di dalam proyek ini terdapat beberapa file program dengan alur form → input �
 | 4 | **Nilai Huruf** | Mengonversi nilai numerik ke nilai huruf (A, B, C, dst.), dengan validasi |
 | 5 | **Menu Makanan** | Pengguna memilih menu → menghitung total harga → cek stok & validasi |
 | 6 | **Form Biodata** | Input data pribadi singkat (nama, umur, alamat, dll.) → tampilkan biodata dengan format deskriptif |
+
+## 📸 Screenshot Hasil
+
+Berikut ini screenshot hasil tiap program:
+### 1. Form Ucapan  
+![Form Ucapan]
