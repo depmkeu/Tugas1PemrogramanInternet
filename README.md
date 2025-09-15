@@ -3,9 +3,9 @@
 ✨ Selamat datang di repositori Tugas PHP Dasar!  
 Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi**, **form**, dan **validasi data** dengan PHP.
 
-Nama   : Ni Putu Candradevi Davantari
-NIM    : 2405551035
-Kelas  : Pemrograman Internet B
+Nama   : Ni Putu Candradevi Davantari <br>
+NIM    : 2405551035 <br>
+Kelas  : Pemrograman Internet B <br>
 
 ## 📋 Daftar Program
 
