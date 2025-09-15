@@ -51,3 +51,12 @@ Berikut ini screenshot hasil tiap program:
 
 ### 6. Form Biodata
 ![Biodata](gambar/biodata.png)
+
+---
+
+📌 Semua screenshot di atas menunjukkan hasil dari program yang telah dibuat untuk memenuhi **Tugas PHP Dasar** pada mata kuliah **Pemrograman Internet**.  
+Program ini mencakup latihan penggunaan variabel, operator, kondisi, dan form input-output menggunakan PHP.
+
+Terima Kasih
+
+
