@@ -1,7 +1,7 @@
 # 📚 Tugas Pemrograman Internet
 
 ✨ Selamat datang di repositori Tugas PHP Dasar!  
-Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi('if', 'switch-case')**, **looping ('for', 'foreach')**, **form input & validasi**, dan **array (indexed, associative, multidimensi)** dengan PHP.
+Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi ('if', 'switch-case')**, **looping ('for', 'foreach')**, **form input & validasi**, dan **array (indexed, associative, multidimensi)** dengan PHP.
 
 ## 👤 Identitas
 Nama   : Ni Putu Candradevi Davantari <br>
@@ -60,6 +60,26 @@ Berikut ini screenshot hasil tiap program:
 ![Biodata](gambar/biodata.png)
 
 ---
+
+### 1. Daftar Barang
+![Daftar Barang](gambar/prognet-daftar-barang.png)
+
+### 2. Daftar Mahasiswa (Associative Array)
+![Daftar Mahasiswa](gambar/prognet-daftar-mahasiswa.png)
+
+### 3. Daftar Harga Barang
+![Daftar Harga Barang](gambar/prognet-daftar-harga-barang.png)
+
+### 4. Bilangan Genap (Looping For)
+![Bilangan Genap Looping For](gambar/prognet-tampil-genap.png)
+![Bilangan Genap Looping For](gambar/prognet-tampil-bilangan-genap.png)
+![Bilangan Genap Looping For](gambar/prognet-validasi-genap.png)
+
+### 5. Data Mahasiswa (Array Multidimensi)
+![Data Mahasiswa](gambar/prognet-data-mahasiswa.png)
+
+### 6. Data Mahasiswa + Nilai (Array + Kondisi)
+![Data Mahasiswa + Nilai](gambar/prognet-data-mahasiswa-lulus.png)
 
 📌 Semua screenshot di atas menunjukkan hasil dari program yang telah dibuat untuk memenuhi **Tugas PHP Dasar** pada mata kuliah **Pemrograman Internet**.  
 Program ini mencakup latihan penggunaan variabel, operator, kondisi, dan form input-output menggunakan PHP.
