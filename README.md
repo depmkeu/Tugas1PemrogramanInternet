@@ -31,6 +31,7 @@ Di dalam proyek ini terdapat beberapa file program dengan alur form → input �
 
 ### 📝 Tugas 1
 Berikut adalah hasil program dari **Tugas 1**:
+![Tugas 1](gambar/tugas1.png)
 
 ### 1. Form Ucapan  
 ![Form Ucapan](gambar/form-ucapan.png)
@@ -91,6 +92,7 @@ Berikut adalah hasil program dari **Tugas 1**:
 
 ### 📝 Tugas 2
 Berikut adalah hasil program dari **Tugas 2**:
+![Tugas 2](gambar/tugas2.png)
 
 ### 1. Daftar Barang
 ![Daftar Barang](gambar/daftar-barang.png)
