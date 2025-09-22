@@ -1,24 +1,37 @@
-# Tugas 1 Pemrograman Internet
+# 📚 Tugas Pemrograman Internet
 
 ✨ Selamat datang di repositori Tugas PHP Dasar!  
-Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi**, **form**, dan **validasi data** dengan PHP.
+Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi('if', 'switch-case')**, **looping ('for', 'foreach')**, **form input & validasi**, dan **array (indexed, associative, multidimensi)** dengan PHP.
 
+---
+
+## 👤 Identitas
 Nama   : Ni Putu Candradevi Davantari <br>
 NIM    : 2405551035 <br>
 Kelas  : Pemrograman Internet B <br>
+
+---
 
 ## 📋 Daftar Program
 
 Di dalam proyek ini terdapat beberapa file program dengan alur form → input → validasi → output:
 
-| No | Nama Program | Fungsi Singkat |
-|----|----------------------------|-------------------------------|
-| 1 | **Form Ucapan** | Input nama → validasi huruf/spasi → tampilkan ucapan |
-| 2 | **Kalkulator Sederhana** | Input dua angka + operator (tambah, kurang, kali, bagi) → hasil dengan `switch-case` |
-| 3 | **Ganjil / Genap** | Menentukan apakah angka input ganjil atau genap |
-| 4 | **Nilai Huruf** | Mengonversi nilai numerik ke nilai huruf (A, B, C, dst.), dengan validasi |
-| 5 | **Menu Makanan** | Pengguna memilih menu → menghitung total harga → cek stok & validasi |
-| 6 | **Form Biodata** | Input data pribadi singkat (nama, umur, alamat, dll.) → tampilkan biodata dengan format deskriptif |
+| No | Nama Program | Folder | Fungsi Singkat |
+|----|--------------|--------|----------------|
+| 1  | **Form Ucapan** | `tugas1` | Input nama → validasi huruf/spasi → tampilkan ucapan |
+| 2  | **Kalkulator Sederhana** | `tugas1` | Input dua angka + operator (tambah, kurang, kali, bagi) → hasil dengan `switch-case` |
+| 3  | **Ganjil / Genap** | `tugas1` | Menentukan apakah angka input ganjil atau genap |
+| 4  | **Nilai Huruf** | `tugas1` | Mengonversi nilai numerik ke nilai huruf (A, B, C, dst.), dengan validasi |
+| 5  | **Menu Makanan** | `tugas1` | Pengguna memilih menu → tampilkan harga menu dengan `switch-case` |
+| 6  | **Form Biodata** | `tugas1` | Input data pribadi singkat (nama, umur, alamat, dll.) → tampilkan biodata dengan format deskriptif |
+| 7  | **Daftar Barang (Array)** | `tugas2` | Array sederhana → tampilkan daftar barang dengan `foreach` |
+| 8  | **Daftar Mahasiswa (Associative Array)** | `tugas2` | Array associative dengan NIM (key) & Nama (value) → tampilkan pakai `foreach` |
+| 9  | **Daftar Harga Barang** | `tugas2` | Array associative barang → harga → tampilkan dalam tabel HTML rapi |
+| 10 | **Bilangan Genap (Looping For)** | `tugas2` | Input n1 & n2 → tampilkan semua bilangan genap dengan `for` (syarat n1 < n2) |
+| 11 | **Data Mahasiswa (Array Multidimensi)** | `tugas2` | Array multidimensi berisi Nim, Nama, Umur, Prodi → tampilkan dalam tabel HTML |
+| 12 | **Data Mahasiswa + Nilai (Array + Kondisi)** | `tugas2` | Tambahkan atribut nilai → tampilkan status **Lulus/Tidak Lulus** dengan `if` |
+
+---
 
 ## 📸 Screenshot Hasil
 
