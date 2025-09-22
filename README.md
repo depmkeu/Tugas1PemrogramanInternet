@@ -3,14 +3,10 @@
 ✨ Selamat datang di repositori Tugas PHP Dasar!  
 Proyek ini dibuat sebagai tugas praktik Pemrograman Internet, fokus pada materi **variabel**, **operator**, **kondisi('if', 'switch-case')**, **looping ('for', 'foreach')**, **form input & validasi**, dan **array (indexed, associative, multidimensi)** dengan PHP.
 
----
-
 ## 👤 Identitas
 Nama   : Ni Putu Candradevi Davantari <br>
 NIM    : 2405551035 <br>
 Kelas  : Pemrograman Internet B <br>
-
----
 
 ## 📋 Daftar Program
 
@@ -30,8 +26,6 @@ Di dalam proyek ini terdapat beberapa file program dengan alur form → input �
 | 10 | **Bilangan Genap (Looping For)** | `tugas2` | Input n1 & n2 → tampilkan semua bilangan genap dengan `for` (syarat n1 < n2) |
 | 11 | **Data Mahasiswa (Array Multidimensi)** | `tugas2` | Array multidimensi berisi Nim, Nama, Umur, Prodi → tampilkan dalam tabel HTML |
 | 12 | **Data Mahasiswa + Nilai (Array + Kondisi)** | `tugas2` | Tambahkan atribut nilai → tampilkan status **Lulus/Tidak Lulus** dengan `if` |
-
----
 
 ## 📸 Screenshot Hasil
 
