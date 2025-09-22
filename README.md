@@ -62,24 +62,24 @@ Berikut ini screenshot hasil tiap program:
 ---
 
 ### 1. Daftar Barang
-![Daftar Barang](gambar/prognet-daftar-barang.png)
+![Daftar Barang](gambar/daftar-barang.png)
 
 ### 2. Daftar Mahasiswa (Associative Array)
-![Daftar Mahasiswa](gambar/prognet-daftar-mahasiswa.png)
+![Daftar Mahasiswa](gambar/daftar-mahasiswa.png)
 
 ### 3. Daftar Harga Barang
-![Daftar Harga Barang](gambar/prognet-daftar-harga-barang.png)
+![Daftar Harga Barang](gambar/daftar-harga-barang.png)
 
 ### 4. Bilangan Genap (Looping For)
-![Bilangan Genap Looping For](gambar/prognet-tampil-genap.png)
-![Bilangan Genap Looping For](gambar/prognet-tampil-bilangan-genap.png)
-![Bilangan Genap Looping For](gambar/prognet-validasi-genap.png)
+![Bilangan Genap Looping For](gambar/tampil-genap.png)
+![Bilangan Genap Looping For](gambar/tampil-bilangan-genap.png)
+![Bilangan Genap Looping For](gambar/validasi-genap.png)
 
 ### 5. Data Mahasiswa (Array Multidimensi)
-![Data Mahasiswa](gambar/prognet-data-mahasiswa.png)
+![Data Mahasiswa](gambar/data-mahasiswa.png)
 
 ### 6. Data Mahasiswa + Nilai (Array + Kondisi)
-![Data Mahasiswa + Nilai](gambar/prognet-data-mahasiswa-lulus.png)
+![Data Mahasiswa + Nilai](gambar/data-mahasiswa-lulus.png)
 
 📌 Semua screenshot di atas menunjukkan hasil dari program yang telah dibuat untuk memenuhi **Tugas PHP Dasar** pada mata kuliah **Pemrograman Internet**.  
 Program ini mencakup latihan penggunaan variabel, operator, kondisi, dan form input-output menggunakan PHP.
